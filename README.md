@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishchalravish&label=Profile%20views&color=0e75b6&style=flat" alt="nishchalravish" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishchalravish" alt="nishchalravish" /></a> </p>
+![GIF](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/your-gif.gif)
+
 
 - 🔭 I’m currently working on **SummarAIze - A multimodal news platform that generates real-time summaries using advanced AI models.**
 
