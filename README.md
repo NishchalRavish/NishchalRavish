@@ -1,6 +1,10 @@
 <h1 align="center">Hi folks, I'm Nishchal Gante Ravish</h1>
 <h3 align="center">Welcome to my GitHub! 🚀 I’m a Data Science enthusiast from Illinois Institute of Technology with a flair for innovative projects. From predictive modeling to real-time information platforms, explore my journey through code, creativity, and data-driven solutions! 🌐💡</h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/HelloWorld.gif" alt="animated" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishchalravish&label=Profile%20views&color=0e75b6&style=flat" alt="nishchalravish" /> </p>
 
 - 🔭 I’m currently working on **SummarAIze - A multimodal news platform that generates real-time summaries using advanced AI models.**
@@ -41,4 +45,4 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="
+<a href
