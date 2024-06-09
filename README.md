@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Generative AI and LLM, LangChain, AWS and MLflow**
 
-- 👨‍💻 All of my projects are available at [[GitHub](https://github.com/NishchalRavish)]([GitHub](https://github.com/NishchalRavish))
+- 👨‍💻 All of my projects are available at [[GitHub](https://github.com/NishchalRavish)]
 
 - 💬 Ask me about **Predictive Modeling, Generative AI, Data Visualization, MLOps and Deployment, Hyperparameter optimization, PyTorch**
 
 - 📫 How to reach me **nganteravish@hawk.iit.edu or ghanteravish@gmail.com**
 
-- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1bpra95f4pa3i_8kALwRWSLRNcCeQBv5d/view?usp=sharing)]([Resume](https://drive.google.com/file/d/1bpra95f4pa3i_8kALwRWSLRNcCeQBv5d/view?usp=sharing))
+- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1bpra95f4pa3i_8kALwRWSLRNcCeQBv5d/view?usp=sharing)]
 
 - ⚡ Fun fact **I am a funny dev!**
 
