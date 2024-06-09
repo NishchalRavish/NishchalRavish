@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishchalravish&label=Profile%20views&color=0e75b6&style=flat" alt="nishchalravish" /> </p>
 
 <p align="center">
-  <img src="https://github.com/NishchalRavish/NishchalRavish/assets/80175605/bc2a677c-6243-444b-8fa9-3d97f73d00b6" alt="coder_gif" width="600" />
+  <img src="https://github.com/NishchalRavish/NishchalRavish/assets/80175605/bc2a677c-6243-444b-8fa9-3d97f73d00b6" alt="coder_gif" width="420" />
 </p>
 
 - 🔭 I’m currently working on **SummarAIze - A multimodal news platform that generates real-time summaries using advanced AI models.**
