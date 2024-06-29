@@ -1,4 +1,4 @@
-<h1 align="center">Hi folks, I'm Nishchal Gante Ravish</h1>
+<h1 align="center">Hi folks, I'm Nishchal Gante Ravish</h1>s
 <h3 align="center">Welcome to my GitHub! 🚀 I’m a Data Science enthusiast from Illinois Institute of Technology with a flair for innovative projects. From predictive modeling to real-time information platforms, explore my journey through code, creativity, and data-driven solutions! 🌐💡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishchalravish&label=Profile%20views&color=0e75b6&style=flat" alt="nishchalravish" /> </p>
