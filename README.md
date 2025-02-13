@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Generative AI and LLM, LangChain, AWS and MLflow**
 
-- 👨‍💻 All of my projects are available at [[GitHub](https://github.com/NishchalRavish)]
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/NishchalRavish)
 
 - 🎨✨ Explore my creative projects and proud accomplishments on my [Portfolio](https://nishchal-portfolio.web.app/)!
 
