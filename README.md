@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [[GitHub](https://github.com/NishchalRavish)]
 
-- - 🎨✨ Explore my creative projects and proud accomplishments on my [Portfolio](https://nishchal-portfolio.web.app/)!
+- 🎨✨ Explore my creative projects and proud accomplishments on my [Portfolio](https://nishchal-portfolio.web.app/)!
 
 - 💬 Ask me about **Predictive Modeling, Generative AI, Data Visualization, MLOps and Deployment, Hyperparameter optimization, PyTorch**
 
