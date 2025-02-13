@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **nganteravish@hawk.iit.edu or ghanteravish@gmail.com**
 
-- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1bpra95f4pa3i_8kALwRWSLRNcCeQBv5d/view?usp=sharing)]
+- 📄 Discover my professional journey and experiences through my [Resume](https://drive.google.com/file/d/1bpra95f4pa3i_8kALwRWSLRNcCeQBv5d/view?usp=sharing). 
 
-- ⚡ Fun fact **I am a funny dev!**
+- ⚡ Fun fact **I am an adrenaline junkie and a funny dev!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
