@@ -25,8 +25,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nishchalganteravish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nishchal G R" height="30" width="40" /></a>
 
-<a href="https://yourwebsite.com" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/svgs/solid/globe.svg" alt="Website Icon" height="40" width="40" style="filter: invert(24%) sepia(94%) saturate(748%) hue-rotate(180deg) brightness(92%) contrast(85%);" />
+<a href="https://nishchal-portfolio.web.app/" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/svgs/solid/globe.svg" alt="Website Icon" height="35" width="40" style="filter: invert(24%) sepia(94%) saturate(748%) hue-rotate(180deg) brightness(92%) contrast(85%);" />
 </a>
 
 
