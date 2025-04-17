@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nishchalganteravish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nishchal G R" height="30" width="40" /></a>
 
-<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/32x32/web/web.svg" alt="website" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/globe.svg" alt="Website Icon" width="24" height="24">
 
 
 <h3 align="left">Languages and Tools:</h3>
