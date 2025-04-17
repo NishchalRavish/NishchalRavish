@@ -21,8 +21,6 @@
 
 - 📄 Discover my professional journey and experiences through my [Resume](https://drive.google.com/file/d/1bpra95f4pa3i_8kALwRWSLRNcCeQBv5d/view?usp=sharing). 
 
-- ⚡ Fun fact **I am an adrenaline junkie and a funny dev!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nishchalganteravish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nishchal G R" height="30" width="40" /></a>
