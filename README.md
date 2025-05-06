@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **SummarAIze - A multimodal news platform that generates real-time summaries using advanced AI models.**
 
-- 🌱 I’m currently learning **Generative AI and LLM, LangChain, AWS and MLflow**
-
+- 🌱 I’m currently learning **Autonomous Agents**
+- 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/NishchalRavish)
 
 - 🎨✨ Explore my creative projects and proud accomplishments on my [Portfolio](https://nishchal-portfolio.web.app/)!
 
-- 💬 Ask me about **Predictive Modeling, Generative AI, Data Visualization, MLOps and Deployment, Hyperparameter optimization, PyTorch**
+- 💬 Ask me about **Predictive Modeling, Agentic AI and Frameworks, Data Visualization, MLOps and Deployment, Generative AI,  Hyperparameter optimization, PyTorch, Pipelines**
 
 - 📫 How to reach me **nganteravish@hawk.iit.edu or ghanteravish@gmail.com**
 
