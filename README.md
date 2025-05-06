@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **SummarAIze - A multimodal news platform that generates real-time summaries using advanced AI models.**
 
 - 🌱 I’m currently learning **Autonomous Agents**
-- 
+  
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/NishchalRavish)
 
 - 🎨✨ Explore my creative projects and proud accomplishments on my [Portfolio](https://nishchal-portfolio.web.app/)!
