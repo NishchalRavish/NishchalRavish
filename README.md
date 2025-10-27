@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **SummarAIze - A multimodal news platform that generates real-time summaries using advanced AI models.**
 
-- 🌱 I’m currently learning **Autonomous Agents**
+- 🌱 I’m currently learning **Autonomous Agents and Terraform**
   
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/NishchalRavish)
 
