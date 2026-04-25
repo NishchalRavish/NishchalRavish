@@ -12,6 +12,7 @@
 I am a Data Scientist and Generative AI Engineer with 4+ years of experience delivering end-to-end AI solutions. Currently, I am engineering real-time GenAI fraud detection and multi-agent workflows at **BNY**.
 
 🟢 **Actively open to new full-time opportunities and freelance projects.**
+
 ---
 
 ### 💼 Services & Expertise
