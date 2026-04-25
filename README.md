@@ -3,32 +3,52 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NishchalRavish&label=Profile%20views&color=a3e635&style=flat)
 
+<p align="center">
+  <img src="https://github.com/NishchalRavish/NishchalRavish/assets/80175605/bc2a677c-6243-444b-8fa9-3d97f73d00b6" alt="coder_gif" width="336" />
+</p>
+
 > Building and deploying production ML systems, RAG applications, and agentic workflows—from data to deployment.
 
-I am a Data Scientist and Generative AI Engineer with 3+ years of experience delivering end-to-end AI solutions. Currently, I am engineering real-time GenAI fraud detection and multi-agent workflows at **BNY**.
+I am a Data Scientist and Generative AI Engineer with 4+ years of experience delivering end-to-end AI solutions. Currently, I am engineering real-time GenAI fraud detection and multi-agent workflows at **BNY**.
 
 ---
 
-### 🚀 Featured Impact & Work
+### 💼 Services & Expertise
+
+**Available for full-time opportunities and freelance projects.** Whether you're hiring or building something ambitious, I offer end-to-end solutions from prototype to production across the following domains:
+
+* **🤖 AI Development** — *Intelligent autonomous systems*
+  Production-ready AI solutions leveraging large language models and multi-agent frameworks to automate complex workflows and data analysis.
+
+* **💻 Web Development** — *Responsive user experiences*
+  High-end, performance-driven web interfaces focused on fluid interaction, clean aesthetics, and seamless cross-platform functionality.
+
+* **☁️ Cloud Engineering** — *Scalable infrastructure*
+  Resilient, automated cloud architectures designed for high availability, cost-efficiency, and secure deployment pipelines.
+
+* **🎙️ AI Chatbots & Voice Agents** — *Real-time conversational AI*
+  Advanced conversational interfaces and voice-driven agents optimized for natural interaction, low-latency responses, and seamless tool integration.
+
+* **📊 Data Science** — *Data-driven intelligence*
+  Turning raw information into actionable business strategies through advanced statistical modeling, predictive analytics, and clear visualization.
+
+* **⚙️ Backend Development** — *High-throughput systems*
+  High-performance REST APIs optimized for scale, reliability, and low latency. Bulletproof systems capable of handling millions of requests.
+
+---
+
+### 🚀 Featured Impact
 
 * **Real-time GenAI Fraud Detection:** Engineered async LLM pipelines via AWS Bedrock and Claude APIs processing 500K+ transactions, achieving **84% precision**.
 * **Scalable Microservices:** Built high-performance FastAPI RESTful backends on AWS Lambda serving **2M+ monthly requests**, reducing transaction errors by 35%.
-* **Agentic Workflows:** Architected multi-agent GenAI systems with LangChain tool-calling for automated customer classification and continuous performance tracking.
 * **Predictive Analytics:** Deployed production churn prediction and time-series forecasting models leveraging XGBoost, Apache Airflow, and Azure Synapse.
-
-### 💼 Open for Services & Collaboration
-
-**Available for full-time opportunities and freelance projects.** Whether you're hiring or building something ambitious in AI, I offer end-to-end solutions from prototype to production:
-* **LLM & RAG Pipelines:** Custom generative AI architectures tailored to proprietary data.
-* **Agentic Systems:** Multi-agent workflows for autonomous research, classification, and monitoring.
-* **MLOps & Infrastructure:** Scaling ML models reliably in cloud environments (AWS/Azure).
-
-Got an interesting problem to solve? I'd love to hear about it.
 
 ---
 
 ### 🌐 Connect & Collaborate
 
-* **Portfolio & Case Studies:** [nishchalravish.com](https://nishchalravish.com)
-* **LinkedIn:** [/in/nishchalganteravish](https://www.linkedin.com/in/nishchalganteravish/)
+Got an interesting problem to solve? I'd love to hear about it.
+
+* **Portfolio & Interactive AI Bot:** [nishchalravish.com](https://nishchalravish.com)
+* **LinkedIn:** [nishchalganteravish](https://www.linkedin.com/in/nishchalganteravish/)
 * **Email:** [ghanteravish@gmail.com](mailto:ghanteravish@gmail.com)
