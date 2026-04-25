@@ -1,7 +1,7 @@
 # Nishchal Gante Ravish
 **Data Scientist & GenAI Engineer** | Chicago, IL
 
-![Profile Views](https://komarev.com/ghpvc/?username=NishchalRavish&label=Profile%20views&color=a3e635&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=NishchalRavish&label=Profile%20views&color=a3e635&style=flat) ![Open to Work](https://img.shields.io/badge/Status-Open_to_New_Opportunities-a3e635?style=flat)
 
 <p align="center">
   <img src="https://github.com/NishchalRavish/NishchalRavish/assets/80175605/bc2a677c-6243-444b-8fa9-3d97f73d00b6" alt="coder_gif" width="336" />
@@ -9,7 +9,7 @@
 
 > Building and deploying production ML systems, RAG applications, and agentic workflows—from data to deployment.
 
-I am a Data Scientist and Generative AI Engineer with 4+ years of experience delivering end-to-end AI solutions. Currently, I am engineering real-time GenAI fraud detection and multi-agent workflows at **BNY**.
+I am a Data Scientist and Generative AI Engineer with 4+ years of experience delivering end-to-end AI solutions. Currently, I am engineering real-time GenAI fraud detection and multi-agent workflows at **BNY**. 
 
 🟢 **Actively open to new full-time opportunities and freelance projects.**
 
@@ -17,7 +17,7 @@ I am a Data Scientist and Generative AI Engineer with 4+ years of experience del
 
 ### 💼 Services & Expertise
 
-**Available for full-time opportunities and freelance projects.** Whether you're hiring or building something ambitious, I offer end-to-end solutions from prototype to production across the following domains:
+Whether you're hiring or building something ambitious, I offer end-to-end solutions from prototype to production across the following domains:
 
 * **🤖 AI Development** — *Intelligent autonomous systems*
   Production-ready AI solutions leveraging large language models and multi-agent frameworks to automate complex workflows and data analysis.
@@ -49,7 +49,7 @@ I am a Data Scientist and Generative AI Engineer with 4+ years of experience del
 
 ### 🌐 Connect & Collaborate
 
-Got an interesting problem to solve? I'd love to hear about it.
+Got an interesting problem to solve or a role to fill? I'd love to hear about it.
 
 * **Portfolio:** [nishchalravish.com](https://nishchalravish.com)
 * **LinkedIn:** [nishchalganteravish](https://www.linkedin.com/in/nishchalganteravish/)
