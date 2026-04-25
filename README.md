@@ -11,6 +11,7 @@
 
 I am a Data Scientist and Generative AI Engineer with 4+ years of experience delivering end-to-end AI solutions. Currently, I am engineering real-time GenAI fraud detection and multi-agent workflows at **BNY**.
 
+🟢 **Actively open to new full-time opportunities and freelance projects.**
 ---
 
 ### 💼 Services & Expertise
@@ -49,6 +50,6 @@ I am a Data Scientist and Generative AI Engineer with 4+ years of experience del
 
 Got an interesting problem to solve? I'd love to hear about it.
 
-* **Portfolio & Interactive AI Bot:** [nishchalravish.com](https://nishchalravish.com)
+* **Portfolio:** [nishchalravish.com](https://nishchalravish.com)
 * **LinkedIn:** [nishchalganteravish](https://www.linkedin.com/in/nishchalganteravish/)
 * **Email:** [ghanteravish@gmail.com](mailto:ghanteravish@gmail.com)
